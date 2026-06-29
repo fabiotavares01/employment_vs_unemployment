@@ -52,7 +52,7 @@ Source: [Global Employment & Unemployment Rates 1991-2025 - Kaggle](https://www.
 
 ---
 
-![Employment by Gender Page](assets/dashboard_employment_gender.png)
+![Employment by Gender Page](assets/dashboard_employment_genders.png)
 
 **Employment by Gender (2025)**
 - Males have the highest employment rate (15+) at 66.06% vs females at 48.00%
