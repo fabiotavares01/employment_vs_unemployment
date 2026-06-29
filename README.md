@@ -2,7 +2,7 @@
 
 ## Overview
 An interactive Power BI report analyzing global employment and unemployment rates
-across 195 countries from 1991 to 2025, broken down by age group, gender and continent.
+across 195 countries from 1991 to 2025, broken down by age group, gender, continent and country.
 
 ![Employment Page](assets/dashboard_employment.png)
 
@@ -10,7 +10,6 @@ across 195 countries from 1991 to 2025, broken down by age group, gender and con
 
 ## Tools Used
 - Power BI
-- Excel
 - Power Query
 
 ## Dataset
